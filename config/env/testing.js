@@ -19,7 +19,7 @@ module.exports = {
     port: 80,
 
     models: {
-        connection: 'testMySQL'
+        connection: 'localDiskDb'
     }
 
 

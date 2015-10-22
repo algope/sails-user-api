@@ -4,8 +4,7 @@
   "version": "0.0.0",
   "description": "a Sails application",
   "apidoc": {
-    "title": "Test App API DOC",
-    "url": "http://mateapi.herokuapp.com"
+    "title": "Test App API DOC"
   },
   "keywords": [],
   "dependencies": {
