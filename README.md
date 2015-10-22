@@ -4,9 +4,10 @@ A simple [SailsJS] + [NodeJS] API for Creating, Authenticating and Authorizing U
 
 ### Status
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat-square)](https://travis-ci.org/algope/social-api.svg?branch=master)
-[![Code Climate](https://img.shields.io/codeclimate/github/kabisaict/flow.svg?style=flat-square)](https://codeclimate.com/github/algope/social-api/coverage)
-[![Code Climate](https://img.shields.io/codeclimate/coverage/github/triAGENS/ashikawa-core.svg?style=flat-square)](https://codeclimate.com/github/algope/social-api/coverage)
+[![Build Status](https://travis-ci.org/algope/social-api.svg?branch=master)](https://travis-ci.org/algope/social-api)
+[![Code Climate](https://codeclimate.com/github/algope/social-api/badges/gpa.svg)](https://codeclimate.com/github/algope/social-api)
+[![Test Coverage](https://codeclimate.com/github/algope/social-api/badges/coverage.svg)](https://codeclimate.com/github/algope/social-api/coverage)
+
 ### Features
 
 
