@@ -1,0 +1,15 @@
+{
+  "title": "Test App API DOC",
+  "url": "https://api.test.com",
+  "name": "api.test.com",
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "sampleUrl": false,
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2015-08-19T20:15:05.178Z",
+    "url": "http://apidocjs.com",
+    "version": "0.13.1"
+  }
+}
