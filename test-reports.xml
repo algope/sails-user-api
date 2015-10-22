@@ -1,3 +1,0 @@
-<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Wed, 19 Aug 2015 20:14:59 GMT" time="3.289">
-<testcase classname="UsersController #create()" name="should create a user" time="0.006"/>
-</testsuite>

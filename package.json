@@ -62,7 +62,7 @@
     "grunt-debug-task": "~0.1.4"
   },
   "scripts": {
-    "test": "mocha --recursive -R xunit test/bootstrap.test.js test/unit/**/*.test.js > test-reports.xml"
+    "test": "mocha --recursive -R xunit test/bootstrap.test.js test/unit/**/*.test.js"
   },
   "repository": {
     "type": "git",
