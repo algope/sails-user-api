@@ -4,9 +4,9 @@ A simple [SailsJS] + [NodeJS] API for Creating, Authenticating and Authorizing U
 
 ### Status
 
-[![Build Status](https://travis-ci.org/algope/social-api.svg?branch=master)](https://travis-ci.org/algope/social-api)
-[![Code Climate](https://codeclimate.com/github/algope/social-api/badges/gpa.svg)](https://codeclimate.com/github/algope/social-api)
-[![Test Coverage](https://codeclimate.com/github/algope/social-api/badges/coverage.svg)](https://codeclimate.com/github/algope/social-api/coverage)
+[![Build Status](https://travis-ci.org/algope/sails-user-api.svg?branch=master)](https://travis-ci.org/algope/sails-user-api)
+[![Code Climate](https://codeclimate.com/github/algope/sails-user-api/badges/gpa.svg)](https://codeclimate.com/github/algope/sails-user-api)
+[![Test Coverage](https://codeclimate.com/github/algope/sails-user-api/badges/coverage.svg)](https://codeclimate.com/github/algope/sails-user-api/coverage)
 
 ### Features
 
